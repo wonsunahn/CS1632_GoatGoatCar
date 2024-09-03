@@ -376,12 +376,6 @@ your grade details.  Please use the feedback wisely when doing Deliverable 1!
 
 * DUE: September 23 (Monday), 2024 before start of class
 
-This is optional group work meant to be done if you are finished with
-Deliverable 1 early.  When you click on the GitHub Classroom link, you will be
-asked to either create a new team or join an existing team.  Please use the
-team name that you listed on the Partnership Contract.  If your partner already
-created a team, join that team rather than create a new one.
-
 An extra credit of 1 point out of 100 points for the entire course will be
 awarded to the group that finds the most number of defects in the program.  You
 must have found at least 5 unique defects to qualify for the competition.
