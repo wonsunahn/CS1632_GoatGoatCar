@@ -8,23 +8,16 @@
     + [GitHub Bug Tracking System](#github-bug-tracking-system)
   * [Format](#format)
   * [Submission](#submission)
-  * [Groupwork Plan](#groupwork-plan)
   * [Extra Credit](#extra-credit)
 
 # CS 1632 - Software Quality Assurance
-Summer Semester 2024 - Exercise 1
+Fall Semester 2024 - Exercise 1
 
-* DUE: July 2 (Tuesday), 2024 before start of class
+* DUE: September 9 (Monday), 2024 before start of class
 
-**GitHub Classroom Link:** https://classroom.github.com/a/KBcxlpiP
+**GitHub Classroom Link:** TBD
 
-This is going to be your first group assignment.  When you click on the GitHub
-Classroom link, you will be asked to either create a new team or join an
-existing team.  Please use the team name that you listed on the Partnership
-Contract.  If your partner already created a team, join that team rather than
-create a new one.
-
-## Description
+# Description
 
 For this exercise, you and your partner will determine a **test plan** for the
 simple simulator GoatGoatCar, based on the requirements listed.
@@ -379,25 +372,20 @@ in the PDF file to each rubric item.
 When your exercise is marked as graded, you should find feedback written on
 your grade details.  Please use the feedback wisely when doing Deliverable 1!
 
-## Groupwork Plan
-
-I suggest that you create a shared document that both of you can work on using
-Google Docs or Microsoft OneDrive or your preferred cloud service.  You might
-consider dividing up the requirements equally between the two of you (first one
-does FUN-ARGS-NUMBER / FUN-ARGS-INVALID, and second one does
-FUN-DISPLAY-RESULTS / FUN-DISPLAY-ITERATIONS / FUN-SMALL-NUM).  Please check
-each other's work before submission.  The important thing is that both of you
-learn from doing the exercise!  
-
 ## Extra Credit
 
-* DUE: July 9 (Tuesday), 2024 before start of class
+* DUE: September 23 (Monday), 2024 before start of class
 
-This submission is optional.  An extra credit of 1 point out of 100 points for
-the entire course will be awarded to the group that finds the most number of
-defects in the program.  You must have found at least 5 unique defects to
-qualify for the competition.  There can be multiple winners too if there is a
-tie!
+This is optional group work meant to be done if you are finished with
+Deliverable 1 early.  When you click on the GitHub Classroom link, you will be
+asked to either create a new team or join an existing team.  Please use the
+team name that you listed on the Partnership Contract.  If your partner already
+created a team, join that team rather than create a new one.
+
+An extra credit of 1 point out of 100 points for the entire course will be
+awarded to the group that finds the most number of defects in the program.  You
+must have found at least 5 unique defects to qualify for the competition.
+There can be multiple winners too if there is a tie!
 
 Duplicate defects that are really the same defect that is triggered by two
 different inputs will be counted only once.  How do you know if it is the same
